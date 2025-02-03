@@ -1,0 +1,13 @@
+# Remove VSCode artifcats
+.idea/
+.vscode/
+*.iml
+
+# Ignore build artifacts
+/*.o
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
